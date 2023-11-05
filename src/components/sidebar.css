@@ -1,0 +1,27 @@
+.sidebar-container{
+    width: 80px;
+    height: 100%;
+    background: white;
+    position: fixed;
+    
+
+}
+.sidebar-iconuser{
+    width: 45px;
+    height:45px;
+    padding: 0.95rem;
+}
+.sidebarcon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   margin-top: 1.5rem;
+   padding: 0.95rem;
+}
+.sidebar-icon{
+     width: 45px;
+    height:45px;
+    margin-top: 1.95rem;
+    cursor: pointer;
+
+}
